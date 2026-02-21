@@ -65,3 +65,4 @@ Educational assistance
 
 Blogging support
 ### Result 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/5488bd69-40de-4821-81a4-1dfbe0dcd285" />
